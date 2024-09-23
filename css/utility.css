@@ -28,11 +28,13 @@
 }
 
 .source{
-   background: url('file:///D:/web-dev/Web%20Development/PathFinding/icon/play.svg');
+   background: url('../icon/source.png') no-repeat center center;
+   background-size: contain; /* Ensure it scales correctly */
 }
 
 .target{
-  background: url('file:///D:/web-dev/Web%20Development/PathFinding/icon/target.svg');
+    background: url('../icon/bullseye.png') no-repeat center center;
+    background-size: contain;
 }
 
 .icon {
