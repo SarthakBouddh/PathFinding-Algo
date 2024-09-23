@@ -2,7 +2,7 @@
    display: inline-block;
    aspect-ratio : 1;
    width : 12px;
-   background: url('file:///D:/web-dev/Web%20Development/PathFinding/icon/caret-down.svg') no-repeat center center;
+   background: url('../icon/menu-bar.png') no-repeat center center;
    background-size: contain;
    margin-left: 4px;
 }
