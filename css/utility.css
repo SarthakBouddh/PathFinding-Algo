@@ -32,10 +32,11 @@
    background-size: contain; /* Ensure it scales correctly */
 }
 
-.target{
+.target {
     background: url('../icon/bullseye.png') no-repeat center center;
     background-size: contain;
 }
+
 
 .icon {
   aspect-ratio : 1;
